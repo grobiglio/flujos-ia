@@ -1,0 +1,3 @@
+SERMON_ID = 260403-Hasta-el-fin
+AUDIO_FILENAME = 260403-Hasta-el-fin.m4a
+PDF_URL = https://drive.google.com/file/d/1NU1u5IvPBdOEMl-OayeKl9YFlmtsG4Um/view?usp=sharing

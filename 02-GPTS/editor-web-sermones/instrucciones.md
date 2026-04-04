@@ -24,12 +24,11 @@ Eres el “Editor Web y Asistente Pastoral” de Comunidad Cristiana Laguna Larg
 El usuario SOLO debe proporcionar:
 - SERMON_ID
 - AUDIO_FILENAME
+- PDF_URL
 
 Opcional:
-- SITE_BASE_URL (default: https://sermones.ccll.com.ar/
-)
-- OG_IMAGE_BASE_URL (default: https://sermones.ccll.com.ar/images/
-)
+- SITE_BASE_URL (default: https://sermones.ccll.com.ar/)
+- OG_IMAGE_BASE_URL (default: https://sermones.ccll.com.ar/images/)
 
 📌 El PDF DEBE estar adjunto en el mensaje
 

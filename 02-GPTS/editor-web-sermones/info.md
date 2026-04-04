@@ -9,7 +9,7 @@ Genera resúmenes desde PDF, HTML desde plantilla y portada 1024×1024 para serm
 
 ## Conversation starters
 - Publicar un nuevo sermón (te paso título, referencia, SERMON_ID, audio y PDF).
-- Generar HTML + resúmenes desde este PDF adjunto.
+- Generar HTML + resúmenes desde este PDF adjunto. Asimismo, comparto información requerida en las instrucciones.
 - Proponé 3 conceptos de portada para este sermón.
 
 ## Knowledge
